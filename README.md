@@ -21,7 +21,7 @@
 
 ---- 
 
-Sou desenvolvedor Front-end aqui na @FieldControl, onde vivo o mundo do **JavaScript**!
+Sou desenvolvedor Front-end e apaixonado pelo mundo do **JavaScript**!
 
 **Sou apaixonado por tecnologia** 💻 e um bom **gamer** 🎮. 
 
