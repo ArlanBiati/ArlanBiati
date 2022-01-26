@@ -1,66 +1,52 @@
-### 👋 Ola, seja bem-vindo. Eu sou o Arlan!
 
+<img align="right" height="300em" src="https://user-images.githubusercontent.com/43690080/151084338-0c9da050-1e73-4ae2-910a-f38f2e1d3b5c.png"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Arlan!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArlanBiati&color=5271FF" alt="Profile views" /> </p>
 
-<p align="left">
-<a href="https://twitter.com/b14ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b14ti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arlan-biati-2b3512115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arlan-biati-2b3512115" height="30" width="40" /></a>
-<a href="https://instagram.com/arlangbiati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arlangbiati" height="30" width="40" /></a>
-<a href="https://discord.gg/Arlan Biati#8779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arlan Biati#8779" height="30" width="40" /></a>
-<a target="_blank" href="mailto:arlan.gustavo.biati@gmail.com"><img align="center" alt="Gmail" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" /></a>
-</p>
-</br>
+- 🔥 Desenvolvedor Front-end e Mobile 
 
----- 
-</br>
+- 🔭 Focado nos estudos e aberto a oportunidades!
 
-Sou desenvolvedor Front-end e Front-end Mobile, apaixonado pelo mundo do **JavaScript**!
+- 🚀 Me chama no [LinkedIn](https://www.linkedin.com/in/arlan-biati-2b3512115/)
 
-**Sou apaixonado por tecnologia** 💻 e um bom **gamer** 🎮. 
+- ⚡ Curiosidade - I ❤️️ ☕
 
+<br><br>
 
-* ✏ Sempre estudando e buscando o próximo nível.
-* 💫 Focado em criar códigos limpos e com usabilidade.
-* 👽 Focado em masterizar a omnistack JS.
+# 🛠 &nbsp;Tech Stack
 
-</br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-----
+<br><br>
 
-</br>
+# ⚙️ &nbsp;GitHub Analytics
 
-**Linguagens e ferramentas** 
-
-<p align="left"> 
-<code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </code>
-<code><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></code>
-<code><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></code>
-<code><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
-<code><a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a></code>
-<code><a href="https://nextjs.org/" target="_blank"> <img src="https://nx.dev/documentation/latest/shared/nextjs-logo.png" alt="nextjs" width="40" height="40"/></a></code> 
-<code><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></code>
-<code> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></code>
-<code><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a></code>
-<code><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></code>
-<code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></code> 
-<code><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></code>
-<code><a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a></code>
-<code><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></code>
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ArlanBiati&show_icons=true&theme=tokyonight" alt="ArlanBiati's stats"/>
 </p>
 
-</br>
+<br><br>
 
-----
+# 🧔🏻‍♂️ &nbsp; Social Links
 
-</br>
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Meus status no GitHub!
-
-<div style="display: flex; align-items: center; justify-content: center;">
-
-<p style="margin-right: 40px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arlanbiati&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="arlanbiati" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=arlanbiati&show_icons=true&theme=tokyonight&locale=en" alt="arlanbiati" /></p>
-
-</div>
+<p align="center" style="background:#5271FF">
+<a href="https://twitter.com/b14ti" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ArlanBiati-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/ArlanBiati" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ArlanBiati-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/arlangbiati" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ArlanBiati-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
