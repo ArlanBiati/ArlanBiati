@@ -1,5 +1,5 @@
+<img align="right" height="300em" src="https://user-images.githubusercontent.com/43690080/155626595-91a9e15b-ac06-4673-99dc-2a95557624bf.png"/>
 
-<img align="right" height="300em" src="https://user-images.githubusercontent.com/43690080/151084338-0c9da050-1e73-4ae2-910a-f38f2e1d3b5c.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Arlan!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArlanBiati&color=5271FF" alt="Profile views" /> </p>
 
