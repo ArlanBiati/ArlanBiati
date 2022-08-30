@@ -29,14 +29,6 @@
 
 <br><br>
 
-# ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ArlanBiati&show_icons=true&theme=tokyonight" alt="ArlanBiati's stats"/>
-</p>
-
-<br><br>
-
 # 🧔🏻‍♂️ &nbsp; Social Links
 
 <p align="center" style="background:#5271FF">
