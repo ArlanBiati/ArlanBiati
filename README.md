@@ -1,6 +1,6 @@
 <img align="right" height="300em" src="https://user-images.githubusercontent.com/43690080/155626595-91a9e15b-ac06-4673-99dc-2a95557624bf.png"/>
 
-<h1 align="left">Olá, eu sou o Arlan!</h1>
+<h1 align="left">Hello, I`m Arlan!</h1>
 
 [![](https://visitcount.itsvg.in/api?id=ArlanBiati&icon=8&color=6)](https://visitcount.itsvg.in)
 
